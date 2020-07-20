@@ -1,0 +1,86 @@
+
+.btn-lg-round {
+	border-radius: 24px;
+}
+.form-control
+{
+    text-align: center;
+}
+.fa-robot
+{
+    font-size: 40px;
+    color:red;
+    padding-right: 10px;
+}
+.titulin
+{
+    font-family: 'Rock Salt', cursive;
+    color: red;
+    font-size: 35px;
+    padding-left: 20px ;
+}
+body
+{
+    background-image: url(hackr.jpg);
+    background-size: cover;
+    /* background-position: center center; */
+}
+
+.responsive-object iframe {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 50%;
+    height: 80%;
+}
+
+.imgchiquita
+{
+    width: 60px;
+    height: 60px;
+    border-radius: 10px;
+}
+.entry2
+{
+    background-color:rgb(53, 51, 51);
+    border-radius: 5px;
+    color: lavender;
+    font-weight: bold;
+    
+}
+.imagenentry
+{
+    width: 300px;
+    height: 150px;
+}
+.titulinshiquito
+{
+    font-family: 'Rock Salt', cursive;
+    color: red;
+    font-size: 25px;
+    text-align: center;
+    
+}
+.titulinchiki
+{
+    display: block;
+    font-family: 'Rock Salt', cursive;
+    color:turquoise;
+    font-size: 15px;
+    text-align: center;
+
+}
+.claseenlace
+{
+    font-family: 'Rock Salt', cursive;
+    color:turquoise;
+    text-decoration: underline;
+    font-size: 15px;
+    text-align: justify;
+}
+iframe
+{
+    position: relative;
+    margin: auto;
+    
+}
